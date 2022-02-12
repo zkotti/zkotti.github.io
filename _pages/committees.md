@@ -7,7 +7,7 @@ nav: true
 
 <h2 style="text-align:right;opacity:0.5;">program committees</h2>
 ---
-- <b>MSR '22</b>: Committee Member in <em>Shadow PC track</em>
+- <b>MSR '22</b>: Shadow PC Member
 - <b>ESEC/FSE '21</b>:
   - Web Co-Chair in <em>Organizing Committee</em>
   - Session Chair of Ask Me Anything in <em>Diversity and Inclusion Events</em>
