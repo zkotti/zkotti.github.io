@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  For further information please feel free to contact me via <a href="mailto:zoekotti@aueb.gr" target="_blank">e-mail</a>.
+  For further information feel free to contact me via <a href="mailto:zoekotti@aueb.gr" target="_blank">e-mail</a>.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification: olyDE2pnJa85ZX2kpapbaoqHZOzWnZjsZQeUhKMhsLE # your google-site-verification ID (Google Search Console)
