@@ -37,32 +37,44 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>
+                <em>{{author.first}} {{author.last}}</em>
               {%- else -%}
-                {{author.last}}, {{author.first}}
+                {{author.first}} {{author.last}}
               {%- endif -%}
             {%- else -%}
               {%- unless forloop.last -%}
                 {% if author_is_self %}
-                  <em>{{author.last}}, {{author.first}}</em>,&nbsp;
+                  {%- if forloop.length == 2 -%}
+                    <em>{{author.first}} {{author.last}}</em>&nbsp;
+                  {%- else -%}
+                    <em>{{author.first}} {{author.last}}</em>,&nbsp;
+                  {%- endif -%}
                 {%- else -%}
                   {% if coauthor_url -%}
-                    <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>,&nbsp;
+                    {%- if forloop.length == 2 -%}
+                      <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>&nbsp;
+                    {%- else -%}
+                      <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
+                    {%- endif -%}
                   {%- else -%}
-                    {{author.last}}, {{author.first}},&nbsp;
+                    {%- if forloop.length == 2 -%}
+                      {{author.first}} {{author.last}}&nbsp;
+                    {%- else -%}
+                      {{author.first}} {{author.last}},&nbsp;
+                    {%- endif -%}
                   {%- endif -%}
                 {%- endif -%}
               {%- else -%}
                 {% if author_is_self -%}
-                  and <em>{{author.last}}, {{author.first}}</em>
+                  and <em>{{author.first}} {{author.last}}</em>
                 {% else -%}
                   {%- if coauthor_url -%}
-                    and <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>
+                    and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
                   {% else -%}
-                    and {{author.last}}, {{author.first}}
+                    and {{author.first}} {{author.last}}
                   {%- endif -%}
                 {%- endif -%}
               {%- endunless -%}
@@ -87,7 +99,11 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
+          <!-- Awards -->
+          {% if entry.award %}
+            <b>🏆<em>{{entry.award}}</em></b>
+          {% endif %}
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
