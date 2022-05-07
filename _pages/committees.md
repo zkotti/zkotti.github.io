@@ -11,6 +11,7 @@ nav: true
 
 <h2 style="text-align:right;opacity:0.5;">program committees</h2>
 ---
+- <b>ICSE '22</b>: In-person Student Volunteer
 - <b>MSR '22</b>: Shadow PC Member
 - <b>MSR '21</b>: Mining Challenge PC Member
 - <b>SPLASH '19</b>: Student Volunteer
