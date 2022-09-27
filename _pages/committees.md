@@ -7,7 +7,7 @@ nav: true
 
 <h2 style="text-align:right;opacity:0.5;">organizing committees</h2>
 ---
-- <b>ESEC/FSE '21</b>: Web Co-Chair
+- <b>ESEC/FSE '21</b>: Web Co-Chair (<b>🏆ACM SIGSOFT Distinguished Service Award</b>)
 
 <h2 style="text-align:right;opacity:0.5;">program committees</h2>
 ---
