@@ -24,5 +24,6 @@ I hold a BSc in Management Science and Technology from the aforementioned Depart
 As part of my undergraduate studies,
 I conducted an industrial internship at [isMOOD Data Technology Services](https://ismood.com/)
 working as a back-end developer.
+My detailed CV can be found [here](./assets/pdf/zkotti-cv.pdf).
 
 My research interests include machine learning and software engineering.
