@@ -11,8 +11,13 @@ nav: true
 
 <h2 style="text-align:right;opacity:0.5;">program committees</h2>
 ---
+- <b>ICSE '23</b>: Artifact Evaluation PC Member
 - <b>MSR '22</b>: Shadow PC Member
 - <b>MSR '21</b>: Mining Challenge PC Member
+
+<h2 style="text-align:right;opacity:0.5;">external review committees</h2>
+---
+- <b>ISSTA '22</b>: External Reviewer in Technical track
 
 <h2 style="text-align:right;opacity:0.5;">panel sessions</h2>
 ---
