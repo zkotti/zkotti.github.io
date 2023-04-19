@@ -3,7 +3,7 @@ layout: page
 permalink: /committees/
 title: committees
 nav: true
-order: 1
+nav_order: 1
 ---
 
 <h2 style="text-align:right;opacity:0.5;">organizing committees</h2>
