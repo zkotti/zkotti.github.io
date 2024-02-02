@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Engineer <a href='https://www.deliveryhero.com/'>@Delivery Hero</a> <br/> PhD Candidate <a href='https://aueb.gr/en'>@Athens University of Economics and Business</a>
+subtitle: Data Scientist, PhD Candidate <a href='https://aueb.gr/en'>@Athens University of Economics and Business</a>
 
 profile:
   align: right
@@ -18,8 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I'm a Research Engineer at Delivery Hero
-working on machine-learning-based recommendation systems.
+I'm a Data Scientist with extensive experience in AI applications
+in software engineering and recommender systems.
+I was previously a Research Engineer at Delivery Hero
+working on machine-learning-based recommender systems and their performance analytics.
 
 I'm also a PhD Candidate and Associate Researcher
 at the [Business Analytics Laboratory](https://www.balab.aueb.gr/),
