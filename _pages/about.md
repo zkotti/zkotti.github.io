@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist, PhD Candidate <a href='https://aueb.gr/en'>@Athens University of Economics and Business</a>
+subtitle: Software Engineer,
+  PhD Candidate <a href='https://aueb.gr/en'>@Athens University of Economics and Business</a>, Greece
 
 profile:
   align: right
@@ -18,10 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I'm a Data Scientist with extensive experience in AI applications
-in software engineering and recommender systems.
-I was previously a Research Engineer at Delivery Hero
-working on machine-learning-based recommender systems and their performance analytics.
+I'm a Software Engineer at [DeepSea Technologies](https://deepsea.ai/)
+working on AI-powered decarbonization solutions for the shipping industry.
+Previously I was a Research Engineer at [Delivery Hero](https://www.deliveryhero.com/)
+working on AI-based recommender systems and their performance analytics.
 
 I'm also a PhD Candidate and Associate Researcher
 at the [Business Analytics Laboratory](https://www.balab.aueb.gr/),
@@ -30,4 +31,4 @@ Athens University of Economics and Business, Greece.
 My doctorate has been granted a [scholarship award](https://www.elidek.gr/en/call/3rd-call-for-h-f-r-i-scholarships-for-phd-candidates/)
 from the Hellenic Foundation for Research and Innovation.
 
-My research interests include machine learning, recommender systems, and software engineering.
+My research interests include AI and software engineering.
