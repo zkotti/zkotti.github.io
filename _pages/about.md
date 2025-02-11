@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer <a href='https://deepsea.ai/'>@DeepSea Technologies,
-  PhD Candidate <a href='https://aueb.gr/en'>@AUEB, Greece
+subtitle: Software Engineer, PhD Candidate, Greece
 
 profile:
   align: right
