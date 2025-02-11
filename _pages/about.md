@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer,
-  PhD Candidate <a href='https://aueb.gr/en'>@Athens University of Economics and Business</a>, Greece
+subtitle: Software Engineer, PhD Candidate, Greece
 
 profile:
   align: right
@@ -27,7 +26,7 @@ working on AI-based recommender systems and their performance analytics.
 I'm also a PhD Candidate and Associate Researcher
 at the [Business Analytics Laboratory](https://www.balab.aueb.gr/),
 established at the Department of Management Science and Technology,
-Athens University of Economics and Business, Greece.
+[Athens University of Economics and Business](https://aueb.gr/en), Greece.
 My doctorate has been granted a [scholarship award](https://www.elidek.gr/en/call/3rd-call-for-h-f-r-i-scholarships-for-phd-candidates/)
 from the Hellenic Foundation for Research and Innovation.
 
