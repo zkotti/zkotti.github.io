@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer, PhD Candidate, Greece
+subtitle: Software Engineer, PhD, Greece
 
 profile:
   align: right
@@ -23,11 +23,7 @@ working on AI-powered decarbonization solutions for the shipping industry.
 Previously I was a Research Engineer at [Delivery Hero](https://www.deliveryhero.com/)
 working on AI-based recommender systems and their performance analytics.
 
-I'm also a PhD Candidate and Associate Researcher
-at the [Business Analytics Laboratory](https://www.balab.aueb.gr/),
-established at the Department of Management Science and Technology,
+I also hold a PhD in Software Engineering, AI and Business Analytics
+from the Department of Management Science and Technology,
 [Athens University of Economics and Business](https://aueb.gr/en), Greece.
-My doctorate has been granted a [scholarship award](https://www.elidek.gr/en/call/3rd-call-for-h-f-r-i-scholarships-for-phd-candidates/)
-from the Hellenic Foundation for Research and Innovation.
-
 My research interests include AI and software engineering.
