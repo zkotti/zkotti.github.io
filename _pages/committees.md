@@ -13,7 +13,7 @@ nav_order: 1
 
 <h2 style="text-align:right;opacity:0.5;">program committees</h2>
 ---
-- <b>FSE '26</b>: Tool Demonstrations Track Track PC Member
+- <b>FSE '26</b>: Tool Demonstrations Track PC Member
 - <b>Internetware '25</b>: Research Track PC Member
 - <b>ICSME '24</b>: Artifact Evaluation and ROSE Festival PC Member
 - <b>ICSME '23</b>: Artifact Evaluation and ROSE Festival PC Member
