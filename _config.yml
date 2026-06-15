@@ -57,7 +57,7 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: true
+      enabled: false # PDF-only CV (nav links to assets/pdf/zkotti-cv.pdf); RenderCV/_data/cv.yml unused
     distill:
       enabled: true
   compat:
