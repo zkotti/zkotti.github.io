@@ -1,0 +1,14 @@
+:root {
+  --global-bg-color: #ffebeb;
+  --global-theme-color: #34623f;
+  --global-hover-color: #34623f;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #2698ba;
+  --global-hover-color: #2698ba;
+}
+
+footer .container {
+  text-align: center;
+}
