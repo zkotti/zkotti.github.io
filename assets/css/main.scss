@@ -34,3 +34,11 @@
   --global-hover-color: #065535;
   --global-code-bg-color: rgba(6, 85, 53, 0.05);
 }
+
+/* Publications search match highlight: the gem renders matched text as
+   dark text on the (dark) theme-color, which is unreadable. Use a light
+   tint of the accent with normal dark text, like a highlighter pen. */
+::highlight(search) {
+  background-color: rgba(6, 85, 53, 0.18);
+  color: var(--global-text-color);
+}
