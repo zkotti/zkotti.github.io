@@ -1,7 +1,7 @@
 ---
 # Local override of al_folio_core's assets/css/main.scss.
 # Mirrors the gem's @use graph, then overrides the light-mode accent
-# color (gem default is purple #b509ac) with teal. Dark mode is disabled
+# color (gem default is purple #b509ac). Dark mode is disabled
 # (enable_darkmode: false), so only the light-mode :root is overridden.
 ---
 @charset "utf-8";
@@ -28,9 +28,9 @@
 @use "teachings";
 @use "typograms";
 
-/* ---- Site accent color override (teal, replacing the gem's purple) ---- */
+/* ---- Site accent color override (replacing the gem's purple) ---- */
 :root {
-  --global-theme-color: #008080;
-  --global-hover-color: #008080;
-  --global-code-bg-color: rgba(0, 128, 128, 0.05);
+  --global-theme-color: #065535;
+  --global-hover-color: #065535;
+  --global-code-bg-color: rgba(6, 85, 53, 0.05);
 }
