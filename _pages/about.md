@@ -27,11 +27,12 @@ latest_posts:
 I'm a Software Engineer at [DeepSea Technologies](https://deepsea.ai/)
 working on vessel data processing and speed automation systems for the shipping industry.
 
-I'm also a part-time Lecturer at the [Athens University of Economics and Business](https://aueb.gr/en),
+I'm also a part-time Lecturer at the
+[Athens University of Economics and Business](https://aueb.gr/en), Greece,
 developing and delivering the "Digital Product and Service Management" course
 within the BSc in Management Science and Technology program.
 
 I hold a PhD in Software Engineering, AI and Business Analytics
 from the Department of Management Science and Technology,
-Athens University of Economics and Business, Greece.
+Athens University of Economics and Business.
 My research interests include AI and software engineering.
