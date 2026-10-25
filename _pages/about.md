@@ -25,9 +25,10 @@ latest_posts:
 ---
 
 I'm a Software Engineer at [DeepSea Technologies](https://deepsea.ai/)
-working on AI-powered decarbonization solutions for the shipping industry.
-Previously I was a Research Engineer at [Delivery Hero](https://www.deliveryhero.com/)
-working on AI-based recommender systems and their performance analytics.
+working on vessel data processing and speed automation systems for the shipping industry, and
+a part-time Lecturer at the [Athens University of Economics and Business](https://aueb.gr/en),
+developing and delivering the "Digital Product and Service Management" course
+within the BSc in Management Science and Technology program.
 
 I also hold a PhD in Software Engineering, AI and Business Analytics
 from the Department of Management Science and Technology,

@@ -17,6 +17,7 @@ nav_order: 1
 
 ---
 
+- <b>FSE '27</b>: Tool Demonstrations Track PC Member
 - <b>CAIN '27</b>: Research Track PC Member
 - <b>FSE '26</b>: Tool Demonstrations Track PC Member
 - <b>Internetware '25</b>: Research Track PC Member
